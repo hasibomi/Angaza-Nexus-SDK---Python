@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Angaza-Nexus-SDK-Python
+Version: 0.0.1
+Summary: SDK for Angaza Nexus API
+Home-page: https://github.com:hasibomi/Angaza-Nexus-SDK---Python
+Author: Hasibur Rahman Omi
+Author-email: hrahmanomi@gmail.com
+License: UNKNOWN
+Description: ## SDK for Angaza Nexus
+        The Nexus API is a complete device management platform. Manufacturers can create Nexus-compatible products that work on every PAYG platform, and each PAYG platform can sell any Nexus-compatible product. When using Nexus API, manufacturers can focus on building great products, PAYG platforms can focus on serving their customers’ operational needs, and we will focus on ensuring a secure and sophisticated device management experience.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

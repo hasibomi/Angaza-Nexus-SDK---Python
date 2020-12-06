@@ -1,0 +1,2 @@
+## SDK for Angaza Nexus
+The Nexus API is a complete device management platform. Manufacturers can create Nexus-compatible products that work on every PAYG platform, and each PAYG platform can sell any Nexus-compatible product. When using Nexus API, manufacturers can focus on building great products, PAYG platforms can focus on serving their customers’ operational needs, and we will focus on ensuring a secure and sophisticated device management experience.
