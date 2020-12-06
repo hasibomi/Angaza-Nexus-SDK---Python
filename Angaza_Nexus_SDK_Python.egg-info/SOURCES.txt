@@ -1,9 +1,0 @@
-README.md
-setup.py
-Angaza_Nexus_SDK_Python.egg-info/PKG-INFO
-Angaza_Nexus_SDK_Python.egg-info/SOURCES.txt
-Angaza_Nexus_SDK_Python.egg-info/dependency_links.txt
-Angaza_Nexus_SDK_Python.egg-info/top_level.txt
-angaza/__init__.py
-angaza/angaza.py
-angaza/base.py
