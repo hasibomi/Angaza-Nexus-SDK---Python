@@ -5,7 +5,7 @@ with open('README.md', 'r') as file:
 
 setuptools.setup(
     name='Angaza Nexus SDK - Python',
-    version='0.0.1',
+    version='0.0.2',
     author='Hasibur Rahman Omi',
     author_email='hrahmanomi@gmail.com',
     description='SDK for Angaza Nexus API',

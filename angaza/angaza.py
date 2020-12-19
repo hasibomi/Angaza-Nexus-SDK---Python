@@ -4,7 +4,7 @@ from. base import Base
 
 
 class Angaza(Base):
-    def get_usage_data(self, unit_number: int, from_when_dt: str, to_when_dt: str = None, sample_type: str=None) -> Dict[str, Any]:
+    def get_usage_data(self, unit_number: int, from_when_dt: str, to_when_dt: str = None, sample_type: str=None, offset=0) -> Dict[str, Any]:
         """
         Retrieve a unit's usage data samples that have been previously recorded with Angaza.
         Filter by sample time. Restricted to a one month maximum range per request.
@@ -24,6 +24,7 @@ class Angaza(Base):
 
         url = self.url('usage_data')
         params = {
+            'offset': offset,
             'unit_number': unit_number,
             'from_when_dt': from_when_dt
         }
